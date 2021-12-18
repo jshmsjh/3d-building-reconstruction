@@ -72,3 +72,4 @@ Here dtu means the data is organized in the format of [DTU](http://roboimagedata
 
 We reconstructed various spot of out campus. The reconstructed point cloud files is available [here](https://pan.baidu.com/s/1K0ejPfeU8KmnOYaLLU07KQ ) (Code: nz1e). You can visualize the file with [Meshlab](https://www.meshlab.net/) or [CloudCompare](https://www.danielgm.net/cc/) .
 
+![](doc/result.png)
