@@ -1,0 +1,4 @@
+__pycache__/
+*.ckpt
+.DS_Store
+event*
