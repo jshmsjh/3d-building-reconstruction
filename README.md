@@ -1,6 +1,7 @@
 # 3d-building-reconstruction
 
-This is part of a study project using the AA-RMVSNet to reconstruct buildings from multiple images. 
+This is part of a study project using the AA-RMVSNet to reconstruct buildings from multiple images. The other part of the project is
+[building-feature-recognition](https://github.com/jshmsjh/building-feature-recognition) and [Swin-Transformer-Object-Detection](https://github.com/jshmsjh/Swin-Transformer-Object-Detection)
 
 ## Introduction
 
